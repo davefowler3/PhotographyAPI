@@ -1,7 +1,7 @@
-# infiniteScroll
+# Photography API
 
-This project was designed to create a "smooth scroll" experience for users browsing a single page. 
-In this instance, it was created as a photography page, and created using the Unsplash API.
+This project was designed to create a "smooth scroll" experience for users browsing photographs. 
+I created this site with help from the Unsplash API.
 
 I made this using Javascript ascyn/await and fetch methods. 
 
